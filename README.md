@@ -8,7 +8,7 @@ A simple To-Do app built using React and TailwindCSS.
 
 ## Installation
 1. Clone the repository:
-   git clone <>
+   git clone <https://github.com/siddharth2737/ToDoList.git>
 
 2. Navigate to the project folder:
    cd your-project-folder
